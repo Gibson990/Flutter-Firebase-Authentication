@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821063364630",
+    "project_id": "wedding-app-a091b",
+    "storage_bucket": "wedding-app-a091b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821063364630:android:ac16c5881b11c71d8c4537",
+        "android_client_info": {
+          "package_name": "com.example.firebase_on_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhCt-Or9H3fgBmwHeYGtC2yDf1Cxb3Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
